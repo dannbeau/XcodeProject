@@ -21,6 +21,7 @@ public enum ObjectVersion: UInt, Comparable, CaseIterable {
 	case xcode10 = 51
 	case xcode11 = 52
 	case xcode15 = 54
+	case xcode154 = 60
 }
 
 public final class ProjectFile {
